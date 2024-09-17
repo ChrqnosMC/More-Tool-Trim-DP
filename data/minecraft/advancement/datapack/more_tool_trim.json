@@ -1,0 +1,23 @@
+{
+	"display": {
+		"icon": {
+			"id": "minecraft:netherite_pickaxe"
+		},
+		"title": "More Tool Trim",
+		"description": [
+			"",
+			{
+				"text": "More Materials for more Custom Tools & Weapons",
+				"color": "gold"
+			}
+		],
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+    "parent": "minecraft:datapack/root",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
