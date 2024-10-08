@@ -2,7 +2,7 @@
   "asset_name": "bone",
   "description": {
     "color": "#eeeeee",
-    "translate": "trim_material.minecraft.bone"
+    "translate": "trim_material.more_tool_trim.bone"
   },
   "ingredient": "minecraft:bone",
   "item_model_index": 0.02
