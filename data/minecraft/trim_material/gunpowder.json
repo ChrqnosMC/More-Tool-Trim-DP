@@ -2,7 +2,7 @@
   "asset_name": "gunpowder",
   "description": {
     "color": "#727272",
-    "translate": "trim_material.minecraft.gunpowder"
+    "translate": "trim_material.more_tool_trim.gunpowder"
   },
   "ingredient": "minecraft:gunpowder",
   "item_model_index": 0.13
