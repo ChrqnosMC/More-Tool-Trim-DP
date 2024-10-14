@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:ward_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:diamond_axe"
+  },
+  "addition": {
+    "item": "minecraft:bone"
+  },
+  "result": {
+    "id": "minecraft:diamond_axe",
+    "components": {
+      "custom_model_data": 226,
+      "minecraft:trim": {
+        "material": "minecraft:bone",
+        "pattern": "minecraft:ward"
+      }
+    }
+  }
+}

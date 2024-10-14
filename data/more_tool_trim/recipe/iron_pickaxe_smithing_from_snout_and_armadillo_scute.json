@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:snout_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:iron_pickaxe"
+  },
+  "addition": {
+    "item": "minecraft:armadillo_scute"
+  },
+  "result": {
+    "id": "minecraft:iron_pickaxe",
+    "components": {
+      "custom_model_data": 193,
+      "minecraft:trim": {
+        "material": "minecraft:armadillo_scute",
+        "pattern": "minecraft:snout"
+      }
+    }
+  }
+}

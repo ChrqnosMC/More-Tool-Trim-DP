@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:bolt_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:stone_axe"
+  },
+  "addition": {
+    "item": "minecraft:gunpowder"
+  },
+  "result": {
+    "id": "minecraft:stone_axe",
+    "components": {
+      "custom_model_data": 432,
+      "minecraft:trim": {
+        "material": "minecraft:gunpowder",
+        "pattern": "minecraft:bolt"
+      }
+    }
+  }
+}

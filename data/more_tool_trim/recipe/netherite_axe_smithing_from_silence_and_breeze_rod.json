@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:silence_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:netherite_axe"
+  },
+  "addition": {
+    "item": "minecraft:breeze_rod"
+  },
+  "result": {
+    "id": "minecraft:netherite_axe",
+    "components": {
+      "custom_model_data": 245,
+      "minecraft:trim": {
+        "material": "minecraft:breeze_rod",
+        "pattern": "minecraft:silence"
+      }
+    }
+  }
+}

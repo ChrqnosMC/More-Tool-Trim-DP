@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:rib_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:netherite_axe"
+  },
+  "addition": {
+    "item": "minecraft:nether_brick"
+  },
+  "result": {
+    "id": "minecraft:netherite_axe",
+    "components": {
+      "custom_model_data": 518,
+      "minecraft:trim": {
+        "material": "minecraft:nether_brick",
+        "pattern": "minecraft:rib"
+      }
+    }
+  }
+}

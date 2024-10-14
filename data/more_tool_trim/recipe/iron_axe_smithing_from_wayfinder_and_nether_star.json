@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:wayfinder_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:iron_axe"
+  },
+  "addition": {
+    "item": "minecraft:nether_star"
+  },
+  "result": {
+    "id": "minecraft:iron_axe",
+    "components": {
+      "custom_model_data": 528,
+      "minecraft:trim": {
+        "material": "minecraft:nether_star",
+        "pattern": "minecraft:wayfinder"
+      }
+    }
+  }
+}

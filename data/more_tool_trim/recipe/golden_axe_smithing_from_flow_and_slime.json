@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:flow_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:golden_axe"
+  },
+  "addition": {
+    "item": "minecraft:slime_ball"
+  },
+  "result": {
+    "id": "minecraft:golden_axe",
+    "components": {
+      "custom_model_data": 665,
+      "minecraft:trim": {
+        "material": "minecraft:slime",
+        "pattern": "minecraft:flow"
+      }
+    }
+  }
+}

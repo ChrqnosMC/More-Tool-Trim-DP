@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:shaper_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:netherite_axe"
+  },
+  "addition": {
+    "item": "minecraft:gunpowder"
+  },
+  "result": {
+    "id": "minecraft:netherite_axe",
+    "components": {
+      "custom_model_data": 422,
+      "minecraft:trim": {
+        "material": "minecraft:gunpowder",
+        "pattern": "minecraft:shaper"
+      }
+    }
+  }
+}

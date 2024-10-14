@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:vex_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:stone_pickaxe"
+  },
+  "addition": {
+    "item": "minecraft:glowstone_dust"
+  },
+  "result": {
+    "id": "minecraft:stone_pickaxe",
+    "components": {
+      "custom_model_data": 398,
+      "minecraft:trim": {
+        "material": "minecraft:glowstone",
+        "pattern": "minecraft:vex"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:wild_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:golden_axe"
+  },
+  "addition": {
+    "item": "minecraft:breeze_rod"
+  },
+  "result": {
+    "id": "minecraft:golden_axe",
+    "components": {
+      "custom_model_data": 237,
+      "minecraft:trim": {
+        "material": "minecraft:breeze_rod",
+        "pattern": "minecraft:wild"
+      }
+    }
+  }
+}

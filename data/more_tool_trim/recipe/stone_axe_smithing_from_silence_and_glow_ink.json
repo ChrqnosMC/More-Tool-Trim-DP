@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:silence_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:stone_axe"
+  },
+  "addition": {
+    "item": "minecraft:glow_ink_sac"
+  },
+  "result": {
+    "id": "minecraft:stone_axe",
+    "components": {
+      "custom_model_data": 389,
+      "minecraft:trim": {
+        "material": "minecraft:glow_ink",
+        "pattern": "minecraft:silence"
+      }
+    }
+  }
+}

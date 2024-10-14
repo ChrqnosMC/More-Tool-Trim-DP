@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:raiser_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:stone_axe"
+  },
+  "addition": {
+    "item": "minecraft:nether_star"
+  },
+  "result": {
+    "id": "minecraft:stone_axe",
+    "components": {
+      "custom_model_data": 529,
+      "minecraft:trim": {
+        "material": "minecraft:nether_star",
+        "pattern": "minecraft:raiser"
+      }
+    }
+  }
+}

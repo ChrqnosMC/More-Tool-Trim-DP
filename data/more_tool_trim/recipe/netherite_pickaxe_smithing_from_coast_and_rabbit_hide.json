@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:coast_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:netherite_pickaxe"
+  },
+  "addition": {
+    "item": "minecraft:rabbit_hide"
+  },
+  "result": {
+    "id": "minecraft:netherite_pickaxe",
+    "components": {
+      "custom_model_data": 634,
+      "minecraft:trim": {
+        "material": "minecraft:rabbit_hide",
+        "pattern": "minecraft:coast"
+      }
+    }
+  }
+}
