@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:ward_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:golden_axe"
+  },
+  "addition": {
+    "item": "minecraft:heart_of_the_sea"
+  },
+  "result": {
+    "id": "minecraft:golden_axe",
+    "components": {
+      "custom_model_data": 442,
+      "minecraft:trim": {
+        "material": "minecraft:heart_of_the_sea",
+        "pattern": "minecraft:ward"
+      }
+    }
+  }
+}

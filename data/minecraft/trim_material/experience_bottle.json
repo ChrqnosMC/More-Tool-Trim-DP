@@ -2,7 +2,7 @@
     "asset_name": "experience_bottle",
     "description": {
       "color": "#B8E45A",
-      "text":"trim_material.more_tool_trim.experience_bottle"
+      "translate": "trim_material.more_tool_trim.experience_bottle"
     },
     "ingredient": "minecraft:experience_bottle",
     "item_model_index": 0.08

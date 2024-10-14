@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:tide_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:iron_pickaxe"
+  },
+  "addition": {
+    "item": "minecraft:glow_ink_sac"
+  },
+  "result": {
+    "id": "minecraft:iron_pickaxe",
+    "components": {
+      "custom_model_data": 390,
+      "minecraft:trim": {
+        "material": "minecraft:glow_ink",
+        "pattern": "minecraft:tide"
+      }
+    }
+  }
+}

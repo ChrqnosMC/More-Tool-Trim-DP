@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:flow_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:diamond_axe"
+  },
+  "addition": {
+    "item": "minecraft:breeze_rod"
+  },
+  "result": {
+    "id": "minecraft:diamond_axe",
+    "components": {
+      "custom_model_data": 251,
+      "minecraft:trim": {
+        "material": "minecraft:breeze_rod",
+        "pattern": "minecraft:flow"
+      }
+    }
+  }
+}

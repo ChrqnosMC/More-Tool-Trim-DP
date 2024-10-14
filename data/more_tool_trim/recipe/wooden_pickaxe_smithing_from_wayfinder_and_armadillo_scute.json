@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:wayfinder_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:wooden_pickaxe"
+  },
+  "addition": {
+    "item": "minecraft:armadillo_scute"
+  },
+  "result": {
+    "id": "minecraft:wooden_pickaxe",
+    "components": {
+      "custom_model_data": 186,
+      "minecraft:trim": {
+        "material": "minecraft:armadillo_scute",
+        "pattern": "minecraft:wayfinder"
+      }
+    }
+  }
+}

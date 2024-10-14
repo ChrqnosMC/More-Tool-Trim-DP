@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:raiser_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:stone_pickaxe"
+  },
+  "addition": {
+    "item": "minecraft:dragon_breath"
+  },
+  "result": {
+    "id": "minecraft:stone_pickaxe",
+    "components": {
+      "custom_model_data": 277,
+      "minecraft:trim": {
+        "material": "minecraft:dragon_breath",
+        "pattern": "minecraft:raiser"
+      }
+    }
+  }
+}

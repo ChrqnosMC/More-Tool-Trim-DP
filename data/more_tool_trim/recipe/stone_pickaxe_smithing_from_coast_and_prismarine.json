@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:coast_armor_trim_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:stone_pickaxe"
+  },
+  "addition": {
+    "item": "minecraft:prismarine_shard"
+  },
+  "result": {
+    "id": "minecraft:stone_pickaxe",
+    "components": {
+      "custom_model_data": 598,
+      "minecraft:trim": {
+        "material": "minecraft:prismarine",
+        "pattern": "minecraft:coast"
+      }
+    }
+  }
+}
