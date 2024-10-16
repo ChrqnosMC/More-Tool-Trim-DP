@@ -1,15 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:eye_armor_trim_smithing_template"
-  },
-  "base": {
-    "item": "minecraft:netherite_axe"
-  },
-  "addition": {
-    "item": "minecraft:popped_chorus_fruit"
-  },
+  "addition": "minecraft:popped_chorus_fruit",
+  "base": "minecraft:netherite_axe",
   "result": {
+    "count": 1,
     "id": "minecraft:netherite_axe",
     "components": {
       "custom_model_data": 627,
@@ -18,5 +12,6 @@
         "pattern": "minecraft:eye"
       }
     }
-  }
+  },
+  "template": "minecraft:eye_armor_trim_smithing_template"
 }
