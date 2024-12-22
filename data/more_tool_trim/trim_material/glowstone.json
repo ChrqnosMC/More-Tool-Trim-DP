@@ -4,6 +4,5 @@
     "color": "#ffbc5e",
     "translate": "trim_material.more_tool_trim.glowstone"
   },
-  "ingredient": "minecraft:glowstone_dust",
-  "item_model_index": 0.12
+  "ingredient": "minecraft:glowstone_dust"
 }

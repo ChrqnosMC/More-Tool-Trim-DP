@@ -4,6 +4,5 @@
       "color": "#B4D8CA",
       "translate": "trim_material.more_tool_trim.prismarine_crystals"
     },
-    "ingredient": "minecraft:prismarine_crystals",
-    "item_model_index": 0.25
+    "ingredient": "minecraft:prismarine_crystals"
   }

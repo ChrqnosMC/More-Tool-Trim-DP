@@ -4,6 +4,5 @@
     "color": "#83be6d",
     "translate": "trim_material.more_tool_trim.slime"
   },
-  "ingredient": "minecraft:slime_ball",
-  "item_model_index": 0.28
+  "ingredient": "minecraft:slime_ball"
 }

@@ -4,6 +4,5 @@
     "color": "#7e6059",
     "translate": "trim_material.more_tool_trim.netherite_scrap"
   },
-  "ingredient": "minecraft:netherite_scrap",
-  "item_model_index": 0.22
+  "ingredient": "minecraft:netherite_scrap"
 }

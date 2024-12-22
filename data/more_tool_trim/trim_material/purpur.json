@@ -4,6 +4,5 @@
     "color": "#8f648f",
     "translate": "trim_material.more_tool_trim.purpur"
   },
-  "ingredient": "minecraft:popped_chorus_fruit",
-  "item_model_index": 0.26
+  "ingredient": "minecraft:popped_chorus_fruit"
 }

@@ -4,6 +4,5 @@
       "color": "#BE95D4",
       "translate": "trim_material.more_tool_trim.end_crystal"
     },
-    "ingredient": "minecraft:end_crystal",
-    "item_model_index": 0.06
+    "ingredient": "minecraft:end_crystal"
   }

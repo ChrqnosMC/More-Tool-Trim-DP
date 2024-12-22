@@ -4,6 +4,5 @@
     "color": "#25846c",
     "translate": "trim_material.more_tool_trim.ender_pearl"
   },
-  "ingredient": "minecraft:ender_pearl",
-  "item_model_index": 0.07
+  "ingredient": "minecraft:ender_pearl"
 }

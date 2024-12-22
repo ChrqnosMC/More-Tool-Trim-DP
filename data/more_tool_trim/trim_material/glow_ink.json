@@ -4,6 +4,5 @@
     "color": "#4bdeae",
     "translate": "trim_material.more_tool_trim.glow_ink"
   },
-  "ingredient": "minecraft:glow_ink_sac",
-  "item_model_index": 0.11
+  "ingredient": "minecraft:glow_ink_sac"
 }

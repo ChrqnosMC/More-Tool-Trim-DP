@@ -4,6 +4,5 @@
     "color": "#006699",
     "translate": "trim_material.more_tool_trim.heart_of_the_sea"
   },
-  "ingredient": "minecraft:heart_of_the_sea",
-  "item_model_index": 0.14
+  "ingredient": "minecraft:heart_of_the_sea"
 }

@@ -4,6 +4,5 @@
     "color": "#2e2e2e",
     "translate": "trim_material.more_tool_trim.coal"
   },
-  "ingredient": "minecraft:coal",
-  "item_model_index": 0.03
+  "ingredient": "minecraft:coal"
 }

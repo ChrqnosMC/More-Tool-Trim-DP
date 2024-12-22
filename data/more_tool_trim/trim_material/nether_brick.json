@@ -4,6 +4,5 @@
     "color": "#552E34",
     "translate": "trim_material.more_tool_trim.nether_brick"
   },
-  "ingredient": "minecraft:nether_brick",
-  "item_model_index": 0.21
+  "ingredient": "minecraft:nether_brick"
 }

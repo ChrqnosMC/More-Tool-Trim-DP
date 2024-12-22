@@ -4,6 +4,5 @@
     "color": "#c3aca1",
     "translate": "trim_material.more_tool_trim.phantom_membrane"
   },
-  "ingredient": "minecraft:phantom_membrane",
-  "item_model_index": 0.23
+  "ingredient": "minecraft:phantom_membrane"
 }
