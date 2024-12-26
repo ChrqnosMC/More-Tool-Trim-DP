@@ -6,9 +6,13 @@
     "count": 1,
     "id": "minecraft:stone_sword",
     "components": {
-      "item_model": "more_tool_trim:stone_sword_flow_and_armadillo_scute_trim",
+      "minecraft:custom_model_data": {
+        "floats": [
+          17
+        ]
+      },
       "minecraft:trim": {
-        "material": "minecraft:armadillo_scute",
+        "material": "more_tool_trim:armadillo_scute",
         "pattern": "minecraft:flow"
       }
     }

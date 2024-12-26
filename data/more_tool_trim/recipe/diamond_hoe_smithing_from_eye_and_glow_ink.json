@@ -6,9 +6,13 @@
     "count": 1,
     "id": "minecraft:diamond_hoe",
     "components": {
-      "item_model": "more_tool_trim:diamond_hoe_eye_and_glow_ink_trim",
+      "minecraft:custom_model_data": {
+        "floats": [
+          15
+        ]
+      },
       "minecraft:trim": {
-        "material": "minecraft:glow_ink",
+        "material": "more_tool_trim:glow_ink",
         "pattern": "minecraft:eye"
       }
     }

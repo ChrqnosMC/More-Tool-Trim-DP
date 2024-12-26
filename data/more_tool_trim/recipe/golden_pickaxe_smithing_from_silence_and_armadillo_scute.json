@@ -6,9 +6,13 @@
     "count": 1,
     "id": "minecraft:golden_pickaxe",
     "components": {
-      "item_model": "more_tool_trim:golden_pickaxe_silence_and_armadillo_scute_trim",
+      "minecraft:custom_model_data": {
+        "floats": [
+          11
+        ]
+      },
       "minecraft:trim": {
-        "material": "minecraft:armadillo_scute",
+        "material": "more_tool_trim:armadillo_scute",
         "pattern": "minecraft:silence"
       }
     }

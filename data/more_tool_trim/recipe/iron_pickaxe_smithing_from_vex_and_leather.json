@@ -6,9 +6,13 @@
     "count": 1,
     "id": "minecraft:iron_pickaxe",
     "components": {
-      "item_model": "more_tool_trim:iron_pickaxe_vex_and_leather_trim",
+      "minecraft:custom_model_data": {
+        "floats": [
+          2
+        ]
+      },
       "minecraft:trim": {
-        "material": "minecraft:leather",
+        "material": "more_tool_trim:leather",
         "pattern": "minecraft:vex"
       }
     }

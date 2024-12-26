@@ -6,9 +6,13 @@
     "count": 1,
     "id": "minecraft:diamond_axe",
     "components": {
-      "item_model": "more_tool_trim:diamond_axe_wild_and_prismarine_crystals_trim",
+      "minecraft:custom_model_data": {
+        "floats": [
+          3
+        ]
+      },
       "minecraft:trim": {
-        "material": "minecraft:prismarine_crystals",
+        "material": "more_tool_trim:prismarine_crystals",
         "pattern": "minecraft:wild"
       }
     }

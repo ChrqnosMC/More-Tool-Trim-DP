@@ -6,9 +6,13 @@
     "count": 1,
     "id": "minecraft:iron_pickaxe",
     "components": {
-      "item_model": "more_tool_trim:iron_pickaxe_flow_and_glowstone_trim",
+      "minecraft:custom_model_data": {
+        "floats": [
+          17
+        ]
+      },
       "minecraft:trim": {
-        "material": "minecraft:glowstone",
+        "material": "more_tool_trim:glowstone",
         "pattern": "minecraft:flow"
       }
     }

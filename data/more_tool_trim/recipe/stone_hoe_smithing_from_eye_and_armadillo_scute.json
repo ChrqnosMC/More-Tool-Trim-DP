@@ -6,9 +6,13 @@
     "count": 1,
     "id": "minecraft:stone_hoe",
     "components": {
-      "item_model": "more_tool_trim:stone_hoe_eye_and_armadillo_scute_trim",
+      "minecraft:custom_model_data": {
+        "floats": [
+          15
+        ]
+      },
       "minecraft:trim": {
-        "material": "minecraft:armadillo_scute",
+        "material": "more_tool_trim:armadillo_scute",
         "pattern": "minecraft:eye"
       }
     }

@@ -6,9 +6,13 @@
     "count": 1,
     "id": "minecraft:stone_pickaxe",
     "components": {
-      "item_model": "more_tool_trim:stone_pickaxe_wild_and_prismarine_trim",
+      "minecraft:custom_model_data": {
+        "floats": [
+          3
+        ]
+      },
       "minecraft:trim": {
-        "material": "minecraft:prismarine",
+        "material": "more_tool_trim:prismarine",
         "pattern": "minecraft:wild"
       }
     }

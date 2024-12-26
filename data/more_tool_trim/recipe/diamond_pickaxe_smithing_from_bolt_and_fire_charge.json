@@ -6,9 +6,13 @@
     "count": 1,
     "id": "minecraft:diamond_pickaxe",
     "components": {
-      "item_model": "more_tool_trim:diamond_pickaxe_bolt_and_fire_charge_trim",
+      "minecraft:custom_model_data": {
+        "floats": [
+          18
+        ]
+      },
       "minecraft:trim": {
-        "material": "minecraft:fire_charge",
+        "material": "more_tool_trim:fire_charge",
         "pattern": "minecraft:bolt"
       }
     }

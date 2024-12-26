@@ -6,9 +6,13 @@
     "count": 1,
     "id": "minecraft:stone_axe",
     "components": {
-      "item_model": "more_tool_trim:stone_axe_shaper_and_armadillo_scute_trim",
+      "minecraft:custom_model_data": {
+        "floats": [
+          8
+        ]
+      },
       "minecraft:trim": {
-        "material": "minecraft:armadillo_scute",
+        "material": "more_tool_trim:armadillo_scute",
         "pattern": "minecraft:shaper"
       }
     }

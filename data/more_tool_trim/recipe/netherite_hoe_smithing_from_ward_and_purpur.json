@@ -6,9 +6,13 @@
     "count": 1,
     "id": "minecraft:netherite_hoe",
     "components": {
-      "item_model": "more_tool_trim:netherite_hoe_ward_and_purpur_trim",
+      "minecraft:custom_model_data": {
+        "floats": [
+          10
+        ]
+      },
       "minecraft:trim": {
-        "material": "minecraft:purpur",
+        "material": "more_tool_trim:purpur",
         "pattern": "minecraft:ward"
       }
     }

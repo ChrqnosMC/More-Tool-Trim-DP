@@ -6,9 +6,13 @@
     "count": 1,
     "id": "minecraft:iron_axe",
     "components": {
-      "item_model": "more_tool_trim:iron_axe_vex_and_glow_ink_trim",
+      "minecraft:custom_model_data": {
+        "floats": [
+          2
+        ]
+      },
       "minecraft:trim": {
-        "material": "minecraft:glow_ink",
+        "material": "more_tool_trim:glow_ink",
         "pattern": "minecraft:vex"
       }
     }

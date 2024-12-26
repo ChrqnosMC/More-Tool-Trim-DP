@@ -6,9 +6,13 @@
     "count": 1,
     "id": "minecraft:golden_pickaxe",
     "components": {
-      "item_model": "more_tool_trim:golden_pickaxe_flow_and_leather_trim",
+      "minecraft:custom_model_data": {
+        "floats": [
+          17
+        ]
+      },
       "minecraft:trim": {
-        "material": "minecraft:leather",
+        "material": "more_tool_trim:leather",
         "pattern": "minecraft:flow"
       }
     }

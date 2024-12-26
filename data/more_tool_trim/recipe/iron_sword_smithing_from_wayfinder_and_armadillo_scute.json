@@ -6,9 +6,13 @@
     "count": 1,
     "id": "minecraft:iron_sword",
     "components": {
-      "item_model": "more_tool_trim:iron_sword_wayfinder_and_armadillo_scute_trim",
+      "minecraft:custom_model_data": {
+        "floats": [
+          6
+        ]
+      },
       "minecraft:trim": {
-        "material": "minecraft:armadillo_scute",
+        "material": "more_tool_trim:armadillo_scute",
         "pattern": "minecraft:wayfinder"
       }
     }

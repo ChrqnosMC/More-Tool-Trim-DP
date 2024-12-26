@@ -6,9 +6,13 @@
     "count": 1,
     "id": "minecraft:diamond_hoe",
     "components": {
-      "item_model": "more_tool_trim:diamond_hoe_flow_and_nautilus_trim",
+      "minecraft:custom_model_data": {
+        "floats": [
+          17
+        ]
+      },
       "minecraft:trim": {
-        "material": "minecraft:nautilus",
+        "material": "more_tool_trim:nautilus",
         "pattern": "minecraft:flow"
       }
     }

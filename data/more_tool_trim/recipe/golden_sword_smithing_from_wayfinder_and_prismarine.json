@@ -6,9 +6,13 @@
     "count": 1,
     "id": "minecraft:golden_sword",
     "components": {
-      "item_model": "more_tool_trim:golden_sword_wayfinder_and_prismarine_trim",
+      "minecraft:custom_model_data": {
+        "floats": [
+          6
+        ]
+      },
       "minecraft:trim": {
-        "material": "minecraft:prismarine",
+        "material": "more_tool_trim:prismarine",
         "pattern": "minecraft:wayfinder"
       }
     }

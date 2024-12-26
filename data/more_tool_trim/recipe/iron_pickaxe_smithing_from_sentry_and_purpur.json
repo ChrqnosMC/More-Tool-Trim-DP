@@ -6,9 +6,13 @@
     "count": 1,
     "id": "minecraft:iron_pickaxe",
     "components": {
-      "item_model": "more_tool_trim:iron_pickaxe_sentry_and_purpur_trim",
+      "minecraft:custom_model_data": {
+        "floats": [
+          1
+        ]
+      },
       "minecraft:trim": {
-        "material": "minecraft:purpur",
+        "material": "more_tool_trim:purpur",
         "pattern": "minecraft:sentry"
       }
     }
