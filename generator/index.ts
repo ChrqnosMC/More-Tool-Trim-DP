@@ -66,7 +66,7 @@ const items = {
   lapis: 'lapis_lazuli',
   amethyst: 'amethyst_shard',
   resin: 'resin_brick',
-  // index>=11
+  // index >= 11
   armadillo_scute: 'armadillo_scute',
   blaze_rod: 'blaze_rod',
   bone: 'bone',
