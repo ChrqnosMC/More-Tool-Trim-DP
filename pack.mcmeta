@@ -1,0 +1,39 @@
+{
+  "pack": {
+    "pack_format": 80,
+    "supported_formats": [45,80],
+    "description": "More Tool Trim"
+  },
+	"overlays": {
+		"entries": [
+			{
+				"formats": {
+					"min_inclusive": 45,
+					"max_inclusive": 48
+				},
+				"directory": "overlay_45"
+			},
+			{
+				"formats": {
+					"min_inclusive": 49,
+					"max_inclusive": 58
+				},
+				"directory": "overlay_49"
+			},
+			{
+				"formats": {
+					"min_inclusive": 59,
+					"max_inclusive": 63
+				},
+				"directory": "overlay_59"
+			},
+			{
+				"formats": {
+					"min_inclusive": 64,
+					"max_inclusive": 80
+				},
+				"directory": "overlay_64"
+			}
+		]
+	}
+}
