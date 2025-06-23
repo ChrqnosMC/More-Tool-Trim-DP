@@ -1,0 +1,6 @@
+{
+  "targets": "minecraft:echo_shard",
+  "components": {
+    "minecraft:provides_trim_material": "more_tool_trim:echo_shard"
+  }
+}

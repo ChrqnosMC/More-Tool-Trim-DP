@@ -1,0 +1,6 @@
+{
+  "targets": "minecraft:turtle_scute",
+  "components": {
+    "minecraft:provides_trim_material": "more_tool_trim:turtle_scute"
+  }
+}
