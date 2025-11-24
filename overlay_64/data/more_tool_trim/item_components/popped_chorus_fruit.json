@@ -1,6 +1,0 @@
-{
-  "targets": "minecraft:popped_chorus_fruit",
-  "components": {
-    "minecraft:provides_trim_material": "more_tool_trim:purpur"
-  }
-}

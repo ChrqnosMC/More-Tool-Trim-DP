@@ -1,6 +1,0 @@
-{
-  "targets": "minecraft:phantom_membrane",
-  "components": {
-    "minecraft:provides_trim_material": "more_tool_trim:phantom_membrane"
-  }
-}

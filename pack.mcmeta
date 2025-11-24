@@ -1,37 +1,47 @@
 {
   "pack": {
-    "pack_format": 81,
-    "supported_formats": [45,81],
+    "pack_format": 88,
+    "supported_formats": [45,88],
+	"min_format": [45,0],
+	"max_format": [88,0],
     "description": "More Tool Trim"
   },
 	"overlays": {
 		"entries": [
 			{
-				"formats": {
-					"min_inclusive": 45,
-					"max_inclusive": 48
-				},
+				"formats": [45,48],
+				"min_format": [45,0],
+				"max_format": [48,0],
 				"directory": "overlay_45"
 			},
 			{
-				"formats": {
-					"min_inclusive": 49,
-					"max_inclusive": 58
-				},
+				"formats": [45,58],
+				"min_format": [45,0],
+				"max_format": [58,0],
+				"directory": "overlay_45_2"
+			},
+			{
+				"formats": [49,58],
+				"min_format": [49,0],
+				"max_format": [58,0],
 				"directory": "overlay_49"
 			},
 			{
-				"formats": {
-					"min_inclusive": 59,
-					"max_inclusive": 63
-				},
+				"formats": [59,63],
+				"min_format": [59,0],
+				"max_format": [63,0],
 				"directory": "overlay_59"
 			},
 			{
-				"formats": {
-					"min_inclusive": 64,
-					"max_inclusive": 81
-				},
+				"formats": [59,88],
+				"min_format": [59,0],
+				"max_format": [88,0],
+				"directory": "overlay_59_2"
+			},
+			{
+				"formats": [64,88],
+				"min_format": [64,0],
+				"max_format": [88,0],
 				"directory": "overlay_64"
 			}
 		]

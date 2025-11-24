@@ -1,6 +1,0 @@
-{
-  "targets": "minecraft:leather",
-  "components": {
-    "minecraft:provides_trim_material": "more_tool_trim:leather"
-  }
-}

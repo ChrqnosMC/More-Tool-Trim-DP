@@ -1,6 +1,0 @@
-{
-  "targets": "minecraft:glow_ink_sac",
-  "components": {
-    "minecraft:provides_trim_material": "more_tool_trim:glow_ink"
-  }
-}

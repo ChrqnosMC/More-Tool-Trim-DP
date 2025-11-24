@@ -1,6 +1,0 @@
-{
-  "targets": "minecraft:nether_star",
-  "components": {
-    "minecraft:provides_trim_material": "more_tool_trim:nether_star"
-  }
-}

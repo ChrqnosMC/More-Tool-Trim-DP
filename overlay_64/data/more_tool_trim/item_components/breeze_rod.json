@@ -1,6 +1,0 @@
-{
-  "targets": "minecraft:breeze_rod",
-  "components": {
-    "minecraft:provides_trim_material": "more_tool_trim:breeze_rod"
-  }
-}
