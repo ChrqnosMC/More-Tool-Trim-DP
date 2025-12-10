@@ -1,5 +1,5 @@
 {
   "add": {
-    "minecraft:provides_trim_material": "nightfall:echo_shard"
+    "minecraft:provides_trim_material": "more_tool_trim:echo_shard"
   }
 }

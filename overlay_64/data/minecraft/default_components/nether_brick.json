@@ -1,5 +1,5 @@
 {
   "add": {
-    "minecraft:provides_trim_material": "nightfall:nether_brick"
+    "minecraft:provides_trim_material": "more_tool_trim:nether_brick"
   }
 }

@@ -1,5 +1,5 @@
 {
   "add": {
-    "minecraft:provides_trim_material": "nightfall:ender_pearl"
+    "minecraft:provides_trim_material": "more_tool_trim:ender_pearl"
   }
 }

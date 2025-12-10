@@ -1,5 +1,5 @@
 {
   "add": {
-    "minecraft:provides_trim_material": "nightfall:breeze_rod"
+    "minecraft:provides_trim_material": "more_tool_trim:breeze_rod"
   }
 }

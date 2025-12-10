@@ -1,5 +1,5 @@
 {
   "add": {
-    "minecraft:provides_trim_material": "nightfall:phantom_membrane"
+    "minecraft:provides_trim_material": "more_tool_trim:phantom_membrane"
   }
 }

@@ -1,5 +1,5 @@
 {
   "add": {
-    "minecraft:provides_trim_material": "nightfall:glow_ink"
+    "minecraft:provides_trim_material": "more_tool_trim:glow_ink"
   }
 }

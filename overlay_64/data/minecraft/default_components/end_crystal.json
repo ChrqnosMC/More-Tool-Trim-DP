@@ -1,5 +1,5 @@
 {
   "add": {
-    "minecraft:provides_trim_material": "nightfall:end_crystal"
+    "minecraft:provides_trim_material": "more_tool_trim:end_crystal"
   }
 }

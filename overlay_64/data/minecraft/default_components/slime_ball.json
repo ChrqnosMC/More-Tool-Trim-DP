@@ -1,5 +1,5 @@
 {
   "add": {
-    "minecraft:provides_trim_material": "nightfall:slime"
+    "minecraft:provides_trim_material": "more_tool_trim:slime"
   }
 }

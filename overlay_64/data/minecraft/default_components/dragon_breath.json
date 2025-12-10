@@ -1,5 +1,5 @@
 {
   "add": {
-    "minecraft:provides_trim_material": "nightfall:dragon_breath"
+    "minecraft:provides_trim_material": "more_tool_trim:dragon_breath"
   }
 }
